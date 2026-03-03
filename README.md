@@ -22,5 +22,6 @@ Final-year Computer Science student building scalable and performance-driven web
 - [Leet-Hint](https://github.com/Adarsh864/Leet-Hint)
 - [Expense-Tracker](https://github.com/Adarsh864/Expense-Tracker)
 - [EasyConsult](https://github.com/Adarsh864/EasyConsult)
+- [Blockchain-based-NFT-Marketplace](https://github.com/Adarsh864/Blockchain-based-NFT-Marketplace)
 
 ---
