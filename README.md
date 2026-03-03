@@ -13,21 +13,23 @@ Full Stack Developer • React • C# (.NET) • SQL
 
 ## About
 
-Final-year Computer Science student building scalable and performance-driven web applications using React and .NET technologies. Strong foundation in backend systems and SQL-based databases.
+Final-year Computer Science student building scalable and performance-driven web applications using React and .NET technologies. Strong foundation in backend systems and SQL databases.
 
 ---
 
-Leet-Hint  
-https://github.com/Adarsh864/Leet-Hint  
+### Projects
 
-Expense-Tracker  
-https://github.com/Adarsh864/Expense-Tracker  
+- **Leet-Hint**  
+  https://github.com/Adarsh864/Leet-Hint  
 
-EasyConsult  
-https://github.com/Adarsh864/EasyConsult  
+- **Expense-Tracker**  
+  https://github.com/Adarsh864/Expense-Tracker  
+
+- **EasyConsult**  
+  https://github.com/Adarsh864/EasyConsult  
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh864&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh864&show_icons=true&theme=default&cache_seconds=86400" />
 </p>
